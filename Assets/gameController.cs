@@ -136,4 +136,6 @@ public class gameController : MonoBehaviour
         Setup();
         StartCoroutine(Solve(size,0,2,1));
     }
+    
+    
 }
